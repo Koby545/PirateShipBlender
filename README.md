@@ -55,9 +55,10 @@ It includes exterior details, decks, lower deck, anchor, stairs, railings, ropes
 
 ## 📂 Repository Structure
 
-- `PirateShip.blend` – Complete Blender file  
-- Images: `extirior.png`, `deck1.png`, `deck.png`, `anchor.png`, `lower_deck.png`, `lower_deck1.png`  
-- `README.md` – Project description
+- `PirateShip.blend` – Blender file (too large for GitHub, download externally)
+- Images: `extirior.png`, `deck1.png`, `deck.png`, `anchor.png`, `lower_deck.png`, `lower_deck1.png`
+
+> ⚡ Download the full Blender/FBX file [here]((https://drive.google.com/file/d/1rFhxRZALCyc3Y_Lq9XIlVwIDxKNAZHXn/view?usp=sharing))
 
 ---
 
