@@ -21,18 +21,18 @@ It includes exterior details, decks, lower deck, anchor, stairs, railings, ropes
 ## 📸 Screenshots
 
 ### Exterior
-![Exterior](exterior.png)
+![Exterior](ReadMeImages/exterior.png)
 
 ### Upper Deck
-![Deck 1](deck1.png)  
-![Deck 2](deck.png)
+![Deck 1](ReadMeImages/deck1.png)  
+![Deck 2](ReadMeImages/deck.png)
 
 ### Anchor
-![Anchor](anchor.png)
+![Anchor](ReadMeImages/anchor.png)
 
 ### Lower Deck
-![Lower Deck](lower_deck.png)  
-![Lower Deck 2](lower_deck1.png)
+![Lower Deck](ReadMeImages/lower_deck.png)  
+![Lower Deck 2](ReadMeImages/lower_deck1.png)
 
 ---
 
