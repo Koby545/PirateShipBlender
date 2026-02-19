@@ -21,7 +21,7 @@ It includes exterior details, decks, lower deck, anchor, stairs, railings, ropes
 ## 📸 Screenshots
 
 ### Exterior
-![Exterior](extirior.png)
+![Exterior](exterior.png)
 
 ### Upper Deck
 ![Deck 1](deck1.png)  
